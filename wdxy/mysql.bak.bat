@@ -1,0 +1,1 @@
+mysqldump -uroot -proot wdxy>D:\weiyun\WWW\wdxy\wdxy.sql
